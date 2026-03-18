@@ -160,15 +160,6 @@ jupyter notebook tensorflow_keras_fundamentals.ipynb
 
 ---
 
-## Future Work
-- Extend the linear classifier to a multi-layer neural network
-- Add dropout and batch normalization layers
-- Apply the custom layer implementation to a real-world dataset
-- Experiment with different optimizers and learning rate schedules
-- Implement early stopping to prevent overfitting
-
----
-
 ## Conclusion
 This project demonstrates the foundational building blocks of deep learning
 using TensorFlow and Keras — from low-level tensor manipulation and automatic
